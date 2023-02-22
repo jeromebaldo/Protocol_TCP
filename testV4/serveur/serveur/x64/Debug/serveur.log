@@ -1,0 +1,3 @@
+﻿  Serveur.cpp
+C:\Users\baldo\Desktop\reseaux\testV4\serveur\serveur\Serveur.cpp(56,9): warning C4101: 'iSendResult' : variable locale non référencée
+  serveur.vcxproj -> C:\Users\baldo\Desktop\reseaux\testV4\serveur\x64\Debug\serveur.exe

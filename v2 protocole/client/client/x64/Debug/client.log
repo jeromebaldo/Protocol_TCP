@@ -1,0 +1,5 @@
+﻿  Client.cpp
+C:\Users\baldo\Desktop\v2 protocole\client\client\Client.cpp(120,47): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\baldo\Desktop\v2 protocole\client\client\Client.cpp(120,47): warning C4267: 'initialisation' : conversion de 'size_t' en 'const int', perte possible de données
+C:\Users\baldo\Desktop\v2 protocole\client\client\Client.cpp(134,42): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  client.vcxproj -> C:\Users\baldo\Desktop\v2 protocole\client\client\x64\Debug\client.exe
