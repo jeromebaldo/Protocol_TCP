@@ -1,4 +1,0 @@
-﻿  Client.cpp
-C:\Users\baldo\Desktop\reseaux\testV4\client\client\Client.cpp(27,66): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
-C:\Users\baldo\Desktop\reseaux\testV4\client\client\Client.cpp(48,10): warning C4101: 'recvbuf' : variable locale non référencée
-  client.vcxproj -> C:\Users\baldo\Desktop\reseaux\testV4\client\x64\Debug\client.exe
