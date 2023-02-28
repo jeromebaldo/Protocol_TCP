@@ -1,3 +1,0 @@
-﻿  Client.cpp
-C:\Users\baldo\Desktop\reseaux\testv3\Client_BALJ17058609\Client_BALJ17058609\Client.cpp(37,7): warning C4101: 'recvbuf' : variable locale non référencée
-  Client_BALJ17058609.vcxproj -> C:\Users\baldo\Desktop\reseaux\testv3\Client_BALJ17058609\x64\Debug\Client_BALJ17058609.exe
