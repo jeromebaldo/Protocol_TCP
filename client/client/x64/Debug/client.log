@@ -1,0 +1,6 @@
+﻿  Client.cpp
+C:\Users\baldo\Desktop\BALJ17058609_lab03\client\client\Client.cpp(148,76): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\baldo\Desktop\BALJ17058609_lab03\client\client\Client.cpp(197,79): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\baldo\Desktop\BALJ17058609_lab03\client\client\Client.cpp(249,79): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\baldo\Desktop\BALJ17058609_lab03\client\client\Client.cpp(266,95): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+  client.vcxproj -> C:\Users\baldo\Desktop\BALJ17058609_lab03\client\x64\Debug\client.exe
