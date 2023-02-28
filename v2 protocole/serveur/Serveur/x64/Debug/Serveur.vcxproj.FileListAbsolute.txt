@@ -1,2 +1,0 @@
-C:\Users\baldo\Desktop\reseaux\lab#03\serveur\Serveur\x64\Debug\Serveur.exe
-C:\Users\baldo\Desktop\v2 protocole\serveur\Serveur\x64\Debug\Serveur.exe
